@@ -42,7 +42,3 @@ Aplikasi portal berita dengan Flutter yang terintegrasi dengan backend CodeIgnit
 - **lib/providers/**: Provider state management
 - **lib/widgets/**: Komponen UI yang dapat digunakan kembali
 - **assets/**: Gambar dan font aplikasi
-
-![Image](https://github.com/user-attachments/assets/aad56e3d-402a-46fd-8af5-52bafb0819cc)
-
-![Image](https://github.com/user-attachments/assets/9878ca02-1365-422a-a2f8-55324e3662f1) 
