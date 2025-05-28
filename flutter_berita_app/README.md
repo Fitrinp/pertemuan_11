@@ -45,4 +45,4 @@ Aplikasi portal berita dengan Flutter yang terintegrasi dengan backend CodeIgnit
 
 ![Image](https://github.com/user-attachments/assets/aad56e3d-402a-46fd-8af5-52bafb0819cc)
 
-![Image](https://github.com/user-attachments/assets/9878ca02-1365-422a-a2f8-55324e3662f1)
+![Image](https://github.com/user-attachments/assets/9878ca02-1365-422a-a2f8-55324e3662f1) 
